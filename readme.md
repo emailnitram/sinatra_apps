@@ -1,3 +1,3 @@
-## Sinatra app from learn ruby
+# Sinatra app from Ruby Learning
 
-# Source http://rubylearning.org/
+## Source http://rubylearning.org/
